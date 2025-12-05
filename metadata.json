@@ -1,0 +1,7 @@
+{
+  "name": "Visual Audit Assistant",
+  "description": "AI-powered visual inspection tool for warehouses, retail, and safety compliance. Analyze images, detect objects, and chat with your visual data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
